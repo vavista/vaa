@@ -9,10 +9,10 @@ https://github.com/department-of-veterans-affairs/vaa-taskset-reports
 PM docs  
 https://github.com/department-of-veterans-affairs/vaa-pm-docs
 
-Taskset-static
+Taskset-static  
 https://github.com/department-of-veterans-affairs/vaa-taskset-static
 
-Taskset-dynamic
+Taskset-dynamic  
 https://github.com/department-of-veterans-affairs/vaa-taskset-dynamic
 
 Traffic repo  
