@@ -1,6 +1,6 @@
-# VAA
+# VA App Analytics
+Streaming analytics of the clinical workflow of VA medical centers
 
-__Repositories__
 * [All repos](https://github.com/search?q=org%3Adepartment-of-veterans-affairs+vaa-&type=repositories)
 * [Reports](https://github.com/department-of-veterans-affairs/vaa-taskset-reports)
 * [PM docs](https://github.com/department-of-veterans-affairs/vaa-pm-docs)
