@@ -1,13 +1,12 @@
 # VAA
 
-| Repo | Link |
-| --- | --- |
-| All Repos | [all repos](https://github.com/search?q=org%3Adepartment-of-veterans-affairs+vaa-&type=repositories) |
-| Reports | https://github.com/department-of-veterans-affairs/vaa-taskset-reports |
-| PM docs | https://github.com/department-of-veterans-affairs/vaa-pm-docs |
-| Taskset-static  | https://github.com/department-of-veterans-affairs/vaa-taskset-static  |
-| Taskset-dynamic |  https://github.com/department-of-veterans-affairs/vaa-taskset-dynamic  |
-| Traffic repo | https://github.com/department-of-veterans-affairs/vaa-traffic-repository  |
-| Traffic reducer | https://github.com/department-of-veterans-affairs/vaa-vista-traffic-reducer  |
-| Vista emulator  | https://github.com/department-of-veterans-affairs/vaa-vista-emulator |
+__Repositories__
+* [All repos](https://github.com/search?q=org%3Adepartment-of-veterans-affairs+vaa-&type=repositories)
+* [Reports](https://github.com/department-of-veterans-affairs/vaa-taskset-reports)
+* [PM docs](https://github.com/department-of-veterans-affairs/vaa-pm-docs)
+* [Static analysis](https://github.com/department-of-veterans-affairs/vaa-taskset-static)
+* [Dynamic analysis](https://github.com/department-of-veterans-affairs/vaa-taskset-dynamic)
+* [Traffic repo](https://github.com/department-of-veterans-affairs/vaa-traffic-repository)
+* [Traffic reducer](https://github.com/department-of-veterans-affairs/vaa-vista-traffic-reducer)
+* [Vista emulator](https://github.com/department-of-veterans-affairs/vaa-vista-emulator)
 
