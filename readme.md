@@ -2,7 +2,7 @@
 
 | Repo | Link |
 | --- | --- |
-| All Repos | https://github.com/search?q=org%3Adepartment-of-veterans-affairs+vaa-&type=repositories |
+| All Repos | [all repos](https://github.com/search?q=org%3Adepartment-of-veterans-affairs+vaa-&type=repositories) |
 | Reports | https://github.com/department-of-veterans-affairs/vaa-taskset-reports |
 | PM docs | https://github.com/department-of-veterans-affairs/vaa-pm-docs |
 | Taskset-static  | https://github.com/department-of-veterans-affairs/vaa-taskset-static  |
